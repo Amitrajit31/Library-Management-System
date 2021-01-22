@@ -15,7 +15,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js",
-    "build": "SET NODE_ENV=dev && nodemon app.js"
+    "build": "SET NODE_ENV=build && nodemon app.js"
   },
   "author": "Amitrajit Das",
   "license": "ISC",
