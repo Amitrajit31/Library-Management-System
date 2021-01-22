@@ -1,12 +1,3 @@
-# This repo is under construction. You may find some parts not working as expected.
-
-### Following feature will be added in this repo
-
-1. Server side caching
-2. Server side form validation
-3. Test coverage
-4. Scalable image upload
-5. Wiring up CI/CD
 
 # Library-Management-System
 
@@ -32,7 +23,7 @@ A simple online library management system built with MongodDB, Express.js and No
 
 Open git bash or command line tools at application file and run following npm command or if you know what to do, just look at `package.json` file :)
 
-`npm install passport passport-local passport-local-mongoose body-parser connect-flash ejs express express-santizer express-session method-override mongoose multer sharp uuid --save`
+`npm install passport passport-local passport-local-mongoose body-parser connect-flash ejs express express-santizer express-session method-override mongoose multer uuid --save`
 
 #### Install dev dependencies if needed
 
